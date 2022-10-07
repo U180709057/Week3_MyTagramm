@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtMessage" type="id">txtMessage</item>
+    <item name="txtLocation" type="id">txtLocation</item>
+    <item name="imageView" type="id">imageView</item>
+    <item name="listView" type="id">listView</item>
+    <item name="btnOk" type="id">btnOK</item>
+</resources>
